@@ -1,6 +1,6 @@
 # Enquiry into augmenting the social lives of the elderly using Games
 
-Adhavan, 23-02-2022
+Adhavan, 3-03-2022
 
 Disclaimer: This project has been continued from work in 2022, please refer to commit history at the github repository. The first prototype was made in JS, this is being attempted in python.
 
@@ -30,9 +30,9 @@ To envision a series of explorations into ML based aids for game accessibility. 
 
 ## Technical roadmap
 - Developing proof of concept prototypes for voice and visual aids. Think voice commands, pose recognition natural language processing, etc.
-  - [ x ] Object detection for dice and pieces. Refer to the ![YOLOTraining.ipynb](YOLOTraining.ipynb) notebook for the training process. This was trained on Google Collab
+  - [x] Object detection for dice and pieces. Refer to the ![YOLOTraining.ipynb](YOLOTraining.ipynb) notebook for the training process. This was trained on Google Collab
 - Multiplayer User interfaces
-  - [ x ] Code cloned from Jay Polra's work on multiplayer snakes and ladders on python
+  - [x] Code cloned from Jay Polra's work on multiplayer snakes and ladders on python
 - [ ] Integration with Object detection and roll dice on the UI 
 
 **Access the js proof of concept UI here**:
